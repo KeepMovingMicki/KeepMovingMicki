@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @KeepMovingMicki
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on anything Python.
-- 📫 How to reach me ...
+- 👋 Hi, I’m Micki @KeepMovingMicki
 
 <!---
 KeepMovingMicki/KeepMovingMicki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
